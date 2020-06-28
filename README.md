@@ -1,5 +1,5 @@
-# PCJabinsWorkshop
+# Faculty Development Program KLE's BCA Hubballi
 
-Presentation for lessons I Learned Building React Native Apps
+Presentation for Faculty Development Program KLE's BCA Hubballi
 
-preview link https://pc-jabins-workshop.firebaseapp.com/#/
+preview link https://faculty-development-program.web.app/#/

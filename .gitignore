@@ -1,4 +1,6 @@
 node_modules
 public
 .firebaserc
-firebase.json 
+.firebase
+firebase.json
+firebase-debug.log
